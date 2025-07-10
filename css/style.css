@@ -27,7 +27,7 @@ body{
     position: relative;
     right: 30px;
 }
-#bold{
+.bold{
     font-style: normal;
     font-weight: 400;
 }
